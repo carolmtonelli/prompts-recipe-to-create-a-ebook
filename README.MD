@@ -34,16 +34,15 @@ Projeto proposto pelo professor tem o objetivo de gerar um ebook digital com as 
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                      |
+| conteúdo | Faça um texto para ebook , sobre mercado voluntário de carbono no Brasil, incluindo enfoque sobre projetos que capturam carbono da atmosfera e não só evitem ou reduzam emissões, incluindo capítulos sobre a lei 15042 de 11/12/204, sobre as plataformas e ferramentas para operar no mercado, sobre os principais certificadores atuando no Brasil e sobre Net Zero, Neutralidade de Carbono e Carbono Negativo. utilize o estilo da influenciadora Gabriela Prioli |
+|  título  | Crie um título de impacto para o ebook criado
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | imagem inspiradora de cidade sustentável, arborizada, futurística e inclusiva, Pro color photography, Leonardo Phoenix 0.9, fast, medium |
 
 ## ✨ Features
 
