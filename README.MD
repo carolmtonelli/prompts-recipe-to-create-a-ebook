@@ -25,8 +25,8 @@ Projeto proposto pelo professor tem o objetivo de gerar um ebook digital com as 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Leonardo AI](https://leonardo.ai/) A ferramenta Midjourney proposta pelo professor não tem período de teste grátis neste momento
+- [Gamma.app](https://gamma.app/) Não tenho acesso à ferramento PowerPoint proposta pelo professor em meu equipamento particular
 
 ## 🧠 Prompts
 
