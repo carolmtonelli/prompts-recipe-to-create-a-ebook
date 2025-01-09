@@ -58,4 +58,4 @@ Midjourney：
 
 ---
 
-⌨️ com 💜 por [Carol Tonelli](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Carol Tonelli](https://github.com/carolmtonelli)
