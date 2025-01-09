@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/carolmtonelli/prompts-recipe-to-create-a-ebook/blob/main/capa%20e-book2.png"
     width="400"  
 />
 </p>
