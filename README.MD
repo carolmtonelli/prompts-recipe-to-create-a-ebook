@@ -49,13 +49,6 @@ Midjourney：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo AI
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-
-
 ---
 
 ⌨️ com 💜 por [Carol Tonelli](https://github.com/carolmtonelli)
