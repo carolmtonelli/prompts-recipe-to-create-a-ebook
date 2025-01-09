@@ -21,6 +21,7 @@
 Projeto proposto pelo professor tem o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
 <a href="https://github.com/carolmtonelli/prompts-recipe-to-create-a-ebook/blob/main/Do-Impacto-a-Acao-Como-Participar-do-Mercado-de-Creditos-de-Carbono-e-Fazer-a-Diferenca.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 <a href="https://do-impacto-a-acao-como-p-c8cfx9j.gamma.site/" title="View PDF now"> 📕Clique aqui para acessar no site</a>
 
 ## 💻 Tecnologias utilizadas no projeto
